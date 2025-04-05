@@ -27,4 +27,4 @@ const productosMenoresA = preciosFinalesMenoresA(carrito, 1000)
 console.log(productosMenoresA)
 
 const productosOrdenados = ordenarDeMayorAMenorPorPrecio(carrito)
-console.log(productosOrdenados)
+console.log(productosOrdenados) 
